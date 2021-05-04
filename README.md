@@ -9,3 +9,17 @@ The repository contains the Kvasircapsule-seg dataset. It includes 55 medically 
 
 ## Results
 <img src="img/quantitative.png">
+
+## Citation
+Please cite our paper if you find the work useful: 
+<pre>
+@proceedings{jha2021nanonet,
+  title={NanoNet: Real-Time Polyp Segmentation in Endoscopy},
+  author={Jha, Debesh and Tomar, Nikhil Kumar and Ali, Sharib and Riegler, Michael A and Johansen, H{\aa}vard D and Johansen, Dag and Halvorsen, P{\aa}l},
+  booktitle={IEEE Computer Based Multimedia System},
+  publisher={IEEE}
+}
+</pre>
+
+## Contact
+Please contact debesh@simula.no for any further questions.
