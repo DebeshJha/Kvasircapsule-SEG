@@ -13,7 +13,7 @@ The Kvasir-Capsule can be downloaded this github repository and the dropbox link
 
 ## Pillcam 
 <img src="img/pill_cam.JPG" width=30% height=20%>
-It is used for capturing video capsule frames. The examples of capsule endocopy polyp are below:
+It is used for capturing video capsule frames. The examples of capsule endocopy polyp frames are below:
 
 ## Dataset sample
 <img src="img/data.png">
