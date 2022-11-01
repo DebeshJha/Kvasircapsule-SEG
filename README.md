@@ -1,9 +1,13 @@
-# Kvasircapsule-SEG
+# Kvasircapsule-SEG (An open access dataset for capsule endosocpy polyp segmentation)
 
 The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule frames polyp frames.  We have annotated the polyp class of  KvasirCapsule and generated corresponding ground truth masks. Examples of polyps and their corresponding masks from KvasirCapsule-SEG. The Kvasir-Capsule can be downloaded this github repository and the dropbox link: [https://www.dropbox.com/home/KvasirCapsule-SEG](https://www.dropbox.com/home/KvasirCapsule-SEG). 
 
 The official website for the dataset is:
 https://datasets.simula.no/kvasir-capsule-seg/
+
+The official publication link:
+https://ieeexplore.ieee.org/document/9474743
+
 
 ## Pillcam 
 <img src="img/pill_cam.JPG" width=30% height=20%>
