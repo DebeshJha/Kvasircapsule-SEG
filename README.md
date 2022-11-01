@@ -1,4 +1,4 @@
-# Kvasircapsule-SEG (An open access dataset for capsule endosocpy polyp segmentation)
+## Kvasircapsule-SEG (Open-access capsule endosocpy polyp segmentation dataset)
 
 The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule frames polyp frames from Kvasir-Capsule dataset. We have annotated the polyp class of KvasirCapsule and generated corresponding ground truth masks. **__This dataset can be used for semantic meta-learning, domain generalization, semantic segmentation, and out-of-distribution detection task__**.
 
