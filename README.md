@@ -11,7 +11,7 @@ https://ieeexplore.ieee.org/document/9474743
 The Kvasir-Capsule can be downloaded this github repository and the dropbox link: [https://www.dropbox.com/home/KvasirCapsule-SEG](https://www.dropbox.com/home/KvasirCapsule-SEG). 
  
 
-## Pillcam (used for capturing video of GI tract)
+## Pillcam (enables direct visualization of the small bowel with a capsule endoscopy procedure)
 <img src="img/pill_cam.JPG" width=30% height=20%>
 It is used for capturing video capsule frames. The examples of capsule endocopy polyp frames are below:
 
