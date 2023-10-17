@@ -19,7 +19,7 @@ __It is used for capturing video capsule frames.__ The examples of capsule endos
 The dataset can be downloaded using the following link: https://datasets.simula.no/kvasir-capsule-seg/
 Alternatively, the Kvasir-Capsule can be downloaded from this GitHub repository and the Dropbox link: [https://www.dropbox.com/home/KvasirCapsule-SEG](https://www.dropbox.com/home/KvasirCapsule-SEG). 
 
-### Paper publication
+### Paper publication link
 The official publication link of the [NanoNet](https://ieeexplore.ieee.org/document/9474743) work.  
 Here is the arxiv link of the [NanoNet](https://arxiv.org/pdf/2104.11138.pdf) architecture. 
 
