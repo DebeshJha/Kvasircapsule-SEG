@@ -2,12 +2,13 @@
 
 The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule polyp frames from the Kvasir-Capsule dataset. We have annotated the polyp class of KvasirCapsule and generated corresponding ground truth masks. **__This dataset can be used for semantic meta-learning, domain generalization, semantic segmentation, and out-of-distribution detection task__**.
 
-## Pillcam (enables direct visualization of the small bowel with a capsule endoscopy procedure)
+## Pillcam 
+__A capsule endoscopy procedure enables direct visualization of the small bowel.__
 <p align="center">
 <img src="img/pill_cam.JPG" width=30% height=30%">
-</p>>
-It is used for capturing video capsule frames. The examples of capsule endoscopy polyp frames are below:
+</p>
 
+__It is used for capturing video capsule frames.__ The examples of capsule endoscopy polyp frames are below:
 ## KvasirCapsule-SEG dataset
 <img src="img/Capsule.png">
 
