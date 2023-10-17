@@ -1,6 +1,14 @@
-## Kvasircapsule-SEG (Open-access capsule endoscopy polyp segmentation dataset)
+# Kvasircapsule-SEG 
 
-The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule polyp frames from the Kvasir-Capsule dataset. We have annotated the polyp class of KvasirCapsule and generated corresponding ground truth masks. **__This dataset can be used for semantic meta-learning, domain generalization, semantic segmentation, and out-of-distribution detection task__**.
+KvasirCapsule-SEG is an open-access dataset curated specifically for capsule endoscopy polyp segmentation. Derived from the Kvasir-Capsule dataset, it features 55 medically verified video capsule polyp frames. Each frame has been meticulously annotated, generating corresponding ground truth masks, making it an ideal resource for various applications.
+
+🔍 **Use-Cases**:
+- Polyp segmentation
+- Semantic Segmentation
+- Medical image segmentation
+- Semantic Meta-Learning
+- Domain Generalization
+- Out-of-Distribution Detection Task
 
 ## Pillcam 
 __A capsule endoscopy procedure enables direct visualization of the small bowel.__
@@ -15,13 +23,16 @@ __It is used for capturing video capsule frames.__ The examples of capsule endos
 ## Baseline Results on KvasirCapsule-SEG
 <img src="img/quantitative.png">
 
-### Dataset Downloads
-The dataset can be downloaded using the following link: https://datasets.simula.no/kvasir-capsule-seg/
-Alternatively, the Kvasir-Capsule can be downloaded from this GitHub repository and the Dropbox link: [https://www.dropbox.com/home/KvasirCapsule-SEG](https://www.dropbox.com/home/KvasirCapsule-SEG). 
+## Access the Dataset
+📂 **Download Options**:
+- [Simula's Official Dataset Link](https://datasets.simula.no/kvasir-capsule-seg/)
+- [Dropbox Direct Download](https://www.dropbox.com/home/KvasirCapsule-SEG)
 
-### Paper publication link
-The official publication link of the [NanoNet](https://ieeexplore.ieee.org/document/9474743) work.  
-Here is the arxiv link of the [NanoNet](https://arxiv.org/pdf/2104.11138.pdf) architecture. 
+## Research and Publications
+Delve deeper into our work through the following publications:
+- **NanoNet**:
+  - [IEEE's Official Publication](https://ieeexplore.ieee.org/document/9474743)
+  - [ArXiv Preprint Version](https://arxiv.org/pdf/2104.11138.pdf)
 
 
 ## Citation
