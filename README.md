@@ -1,6 +1,6 @@
 ## Kvasircapsule-SEG (Open-access capsule endoscopy polyp segmentation dataset)
 
-The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule frames polyp frames from Kvasir-Capsule dataset. We have annotated the polyp class of KvasirCapsule and generated corresponding ground truth masks. **__This dataset can be used for semantic meta-learning, domain generalization, semantic segmentation, and out-of-distribution detection task__**.
+The repository contains the Kvasircapsule-seg dataset. It includes 55 medically verified video capsule polyp frames from the Kvasir-Capsule dataset. We have annotated the polyp class of KvasirCapsule and generated corresponding ground truth masks. **__This dataset can be used for semantic meta-learning, domain generalization, semantic segmentation, and out-of-distribution detection task__**.
 
 The official website for the dataset is:
 https://datasets.simula.no/kvasir-capsule-seg/
@@ -12,13 +12,15 @@ The Kvasir-Capsule can be downloaded from this GitHub repository and the Dropbox
  
 
 ## Pillcam (enables direct visualization of the small bowel with a capsule endoscopy procedure)
-<img src="img/pill_cam.JPG" width=30% height=20% style="display: block; margin-left: auto; margin-right: auto;">
+<p align="center">
+<img src="img/pill_cam.JPG" width=30% height=30%">
+</p>>
 It is used for capturing video capsule frames. The examples of capsule endoscopy polyp frames are below:
 
-## Dataset sample
+## KvasirCapsule-SEG dataset
 <img src="img/Capsule.png">
 
-## Results
+## Baseline Results on KvasirCapsule-SEG
 <img src="img/quantitative.png">
 
 ## Citation
@@ -34,7 +36,7 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## uses 
-It is an open-access dataset which can be downloaded for research and academic purpose. For industrial purpose, a prior consent is required before using them. 
+It is an open-access dataset that can be downloaded for research and academic purposes. For industrial purposes, prior consent is required before using them. 
 
 ## Contact
-Please contact debesh.jha@northwestern.edu for any further questions.
+Please get in touch with debeshjha1@gmail.com for any further questions.
