@@ -16,7 +16,7 @@ The Kvasir-Capsule can be downloaded this github repository and the dropbox link
 It is used for capturing video capsule frames. The examples of capsule endocopy polyp frames are below:
 
 ## Dataset sample
-<img src="img/data.png">
+<img src="img/capsule.png">
 
 ## Results
 <img src="img/quantitative.png">
