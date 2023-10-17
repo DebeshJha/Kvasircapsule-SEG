@@ -8,6 +8,8 @@ https://datasets.simula.no/kvasir-capsule-seg/
 The official publication link:
 https://ieeexplore.ieee.org/document/9474743
 
+Here is the arxiv link of the [NanoNet](https://arxiv.org/pdf/2104.11138.pdf) architecture. 
+
 The Kvasir-Capsule can be downloaded from this GitHub repository and the Dropbox link: [https://www.dropbox.com/home/KvasirCapsule-SEG](https://www.dropbox.com/home/KvasirCapsule-SEG). 
  
 
