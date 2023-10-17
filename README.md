@@ -28,7 +28,7 @@ __It is used for capturing video capsule frames.__ The examples of capsule endos
 - [Simula's Official Dataset Link](https://datasets.simula.no/kvasir-capsule-seg/)
 - [Dropbox Direct Download](https://www.dropbox.com/home/KvasirCapsule-SEG)
 
-## Research and Publications
+## Research Publication
 Delve deeper into our work through the following publications:
 - **NanoNet**:
   - [IEEE's Official Publication](https://ieeexplore.ieee.org/document/9474743)
@@ -47,8 +47,8 @@ Please cite our paper if you find the work useful:
 }
 </pre>
 
-## uses 
-It is an open-access dataset that can be downloaded for research and academic purposes. For industrial purposes, prior consent is required before using them. 
+## License and Usage
+It is an open-access dataset available for research and academic purposes. For industrial applications, obtaining prior consent is mandatory.
 
 ## Contact
 Please reach out to debeshjha1@gmail.com for any further questions.
